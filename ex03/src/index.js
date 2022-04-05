@@ -1,7 +1,7 @@
     //Only change code below this line
     function myEqualFunction(num){
         if(num === 23){
-            return "Equal"
+            return "Equal";
         }
         return "Not equal";
        }
